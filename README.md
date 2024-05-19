@@ -57,7 +57,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Email - qaiserfarooq285@gmail.com
+Email - qaiserfarooq285@gmail.com </n>
 Video : https://youtu.be/j0irT3-LHj0
 Project Link: https://github.com/Qaiserfarooq285/DSA-Problems-Solver/tree/main/images
 

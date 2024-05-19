@@ -57,10 +57,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - qaiserfarooq285@gmail.com
+Email - qaiserfarooq285@gmail.com
 
 Project Link: https://github.com/Qaiserfarooq285/DSA-Problems-Solver/tree/main/images
 
----
+<h3> Preview </h3>
 
-Feel free to modify this template according to your project's specific details. This structure ensures clarity and provides comprehensive information to users and potential contributors.
+https://github.com/Qaiserfarooq285/DSA-Problems-Solver/blob/main/images/Screenshot%202024-05-19%20100619.png?raw=true
+
+https://github.com/Qaiserfarooq285/DSA-Problems-Solver/blob/main/images/Screenshot%202024-05-19%20100655.png?raw=true
+
+https://github.com/Qaiserfarooq285/DSA-Problems-Solver/blob/main/images/Screenshot%202024-05-19%20100738.png?raw=true
+

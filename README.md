@@ -63,9 +63,13 @@ Project Link: https://github.com/Qaiserfarooq285/DSA-Problems-Solver/tree/main/i
 
 <h3> Preview </h3>
 
-https://github.com/Qaiserfarooq285/DSA-Problems-Solver/blob/main/images/Screenshot%202024-05-19%20100619.png?raw=true
+![image](https://github.com/Qaiserfarooq285/DSA-Problems-Solver/assets/118597629/21b9d3b9-b1e1-47dd-a56c-63630fe85541)
 
-https://github.com/Qaiserfarooq285/DSA-Problems-Solver/blob/main/images/Screenshot%202024-05-19%20100655.png?raw=true
 
-https://github.com/Qaiserfarooq285/DSA-Problems-Solver/blob/main/images/Screenshot%202024-05-19%20100738.png?raw=true
+![image](https://github.com/Qaiserfarooq285/DSA-Problems-Solver/assets/118597629/e505f1ef-b7fd-4047-b0f5-6f668f681d28)
+
+![image](https://github.com/Qaiserfarooq285/DSA-Problems-Solver/assets/118597629/8b1e7ed7-f7be-4ec7-b675-e79fd71cb862)
+
+
+
 
